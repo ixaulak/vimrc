@@ -1,3 +1,9 @@
 [submodule "pack/theme/start/gruvbox"]
 	path = pack/theme/start/gruvbox
 	url = https://github.com/morhetz/gruvbox.git
+[submodule "pack/theme/start/vim-airline"]
+	path = pack/theme/start/vim-airline
+	url = https://github.com/vim-airline/vim-airline.git
+[submodule "pack/theme/start/vim-airline-themes"]
+	path = pack/theme/start/vim-airline-themes
+	url = https://github.com/vim-airline/vim-airline-themes.git
