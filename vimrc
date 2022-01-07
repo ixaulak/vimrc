@@ -1,7 +1,7 @@
 syntax on
 set relativenumber
 set nowrap
-
+set nocompatible
 
 set bg=dark
 colorscheme gruvbox
