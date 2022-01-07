@@ -25,7 +25,7 @@ let g:airline_theme='gruvbox'
 "Plugins
 let NERDTreeQuitOnOpen=1
 let g:NERDTreeMinimalUI=1
-nmap <F2> :NERDTreeToggle<CR>
+nmap <C-f> :NERDTreeToggle<CR>
 
 let g:airline#extensions#tabline#enabled=1
 let g:airline#extensions#tabline#fnamemode=':t'
