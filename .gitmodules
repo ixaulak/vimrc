@@ -7,3 +7,6 @@
 [submodule "pack/theme/start/vim-airline-themes"]
 	path = pack/theme/start/vim-airline-themes
 	url = https://github.com/vim-airline/vim-airline-themes.git
+[submodule "pack/chaka/start/vim-polyglot"]
+	path = pack/chaka/start/vim-polyglot
+	url = https://github.com/sheerun/vim-polyglot
